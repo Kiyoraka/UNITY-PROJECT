@@ -5,4 +5,4 @@ This repository hosts a script specifically designed for creating a Simple 2D Ma
 
 The files that are uploaded are copy directly from Asset folder
 
-Youtube Link:
+Youtube Link: https://youtu.be/iBNamV9vSas
